@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my firstttt repo
 <br>
-Author-akshay chati
+Author-akshay (apna college)
